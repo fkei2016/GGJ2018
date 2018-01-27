@@ -287,6 +287,7 @@
     <Compile Include="Assets\Scripts\CreateMap.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\SingletonMonoBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Title.cs" />
     <Compile Include="Assets\Scripts\TrailLineCreater.cs" />
     <Compile Include="Assets\Scripts\TrailMove.cs" />
   </ItemGroup>
