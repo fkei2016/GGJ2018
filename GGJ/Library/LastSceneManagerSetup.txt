@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/s152189/Documents/Synchro/Synchro/Assets/Scenes/Play.unity
+  isLoaded: 1
+  isActive: 1
